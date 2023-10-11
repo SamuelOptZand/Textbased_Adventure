@@ -1,0 +1,70 @@
+[
+  {
+    "Name": [
+      "|>+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+<|",
+      "|      _________            ___________________________________________________________                                |",
+      "|     | HP: 100 |          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|     | ATK: 33 |          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|     |         |          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|     |_________|          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |___________________________________________________________|                               |",
+      "|                                                                                                                      |",
+      "|                                                                                                                      |",
+      "|                                                                                                                      |",
+      "|>+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+---<|>---+----+----+----+----+<|",
+      "| DIALOG HERE!                                                                              |         CHOICE           |",
+      "|                                                                                           |--------------------------|",
+      "|                                                                                           |           ** A ==        |",
+      "|                                                                                           |           )) B ##        |",
+      "|                                                                                           |           (( C @@        |",
+      "|                                                                                           |                          |",
+      "|                                                                                           |                          |",
+      "|>+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+<|"
+    ]
+
+  },
+  {
+    "Name": [
+      "|>+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+<|",
+      "|      _________            ___________________________________________________________                                |",
+      "|     | HP: 100 |          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|     | ATK: 33 |          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|     |         |          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|     |_________|          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|                               |",
+      "|                          |___________________________________________________________|                               |",
+      "|                                                                                                                      |",
+      "|                                                                                                                      |",
+      "|                                                                                                                      |",
+      "|>+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+---<|>---+----+----+----+----+<|",
+      "| DIALOG HERE!                                                                              |         CHOICE           |",
+      "|                                                                                           |--------------------------|",
+      "|                                                                                           |           A              |",
+      "|                                                                                           |           B              |",
+      "|                                                                                           |           C              |",
+      "|                                                                                           |                          |",
+      "|                                                                                           |                          |",
+      "|>+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+<|"
+    ]
+
+  }
+]

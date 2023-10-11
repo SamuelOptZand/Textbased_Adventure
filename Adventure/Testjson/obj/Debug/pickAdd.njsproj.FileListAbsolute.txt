@@ -1,0 +1,3 @@
+C:\Users\newne\source\repos\Testjson\Testjson\obj\Debug\pickAdd.njsproj.AssemblyReference.cache
+C:\Users\newne\source\repos\Testjson\Testjson\obj\Debug\pickAdd.njsproj.CoreCompileInputs.cache
+C:\Users\newne\source\repos\Testjson\Testjson\bin\Microsoft.NodejsTools.WebRole.dll
