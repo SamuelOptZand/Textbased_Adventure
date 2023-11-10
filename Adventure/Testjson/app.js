@@ -210,16 +210,15 @@ function Route1W3() {
     }
 
 function Route1W4() {
-        console.log("");
-        let Route1W4Pick = [""];
-        let Route1W4Choice = rls.keyInSelect(Route1W4Pick, "", { cancel: false });
-        switch (Route1W4Choice) {
-            case 0:
-                console.clear();
+    console.log("The wall swallows you whole.\nYou feel everything and nothing.\nYou hear everything and nothing.\nYou see everything and nothing\nTime degrates.\nYou feel your existance deteriorate.\nYou are one with the white wall.\nThe white wall.\n");
+    rls.question("Press enter to continue");
+    console.clear();
+    console.log("The white wall\nThe white wall\nThe white wall\nThe white wall\nThe white wall\nThe white wall\nThe white wall\nThe white wall\nWhite wall\nWhite wall\n");
+    rls.question("Press enter to continue");
+    console.clear();
+    Ending4();
+}
 
-                break;
-        }
-    }//moet nog
 
 function Route1L() {
     console.log("You look around the train station.\nIt looks like any other train station.");
@@ -373,6 +372,7 @@ function Ending3() {
 } //death
 
 function Ending4() {
+    rls.question("ENDING 4/4 INSANITY\n\n\nPress enter to continue");
     GameEnd();
 } //insanity
 
